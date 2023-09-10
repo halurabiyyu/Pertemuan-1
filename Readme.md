@@ -1,3 +1,8 @@
+## **Data Mahasiswa**
+><p>Nama : Halur Muhammad Abiyyu <p>
+>NIM : 2141720072 <p>
+>Kelas : D4 TI-2E <p> 
+
 ## **BUKU PENGUNJUNG**
 
 ```java
@@ -125,10 +130,7 @@ public class demo {
 
 # **Laporan Jobsheet 1 Object Oriented Programming**
 
-## **Data Mahasiswa**
-><p>Nama : Halur Muhammad Abiyyu <p>
->NIM : 2141720072 <p>
->Kelas : D4 TI-2E <p> 
+
 
 
 ## **3. Percobaan**
